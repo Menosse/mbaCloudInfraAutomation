@@ -1,5 +1,9 @@
 # Cloud Infra Automation
-Terraform module to deploy provision ec2 instances
+# Folder ex1
+Simple terraform to `main.tf` to provision ec2 instances with docker
+
+# Folder ex2
+Terraform module to provision ec2 instances with docker
 
 1 - Access this repo
 
