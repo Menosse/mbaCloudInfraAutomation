@@ -7,7 +7,7 @@ Terraform module to deploy provision ec2 instances
 
 3 - Run the following commands
 
-terraform init`
+`terraform init`
 `terraform plan`
 `terraform apply`
 
