@@ -17,7 +17,7 @@ access the module `main.tf`
     Your application name, this name will be used to name all aws resources
     
 ### app_instance
-    EC2 flavor to be assigned to you application machine
+    EC2 flavor to be assigned to you application instance
 
 ### db_instance
-     EC2 flavor to be assigned to you database machine
+     EC2 flavor to be assigned to you database instance
