@@ -25,9 +25,14 @@ Access the module `main.tf` and edit the params
     
 ### app_name
     Your application name, this name will be used to name all aws resources
+
+### app_tags
+    - env: deployment environment
+    - project: project name
+    - customer: customer name
     
 ### app_instance
     EC2 flavor to be assigned to you application instance
 
 ### db_instance
-     EC2 flavor to be assigned to you database instance
+    EC2 flavor to be assigned to you database instance
