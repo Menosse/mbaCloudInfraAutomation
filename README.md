@@ -6,20 +6,20 @@ access the module `main.tf`
 Define your app params:
 
 
-##vpc_id
+## vpc_id
     Your VPC id created to host the EC2 instances
     
-##subnet_cidr
+## subnet_cidr
     A public subnet attached to the your VPC, defined above
     
-##ssh_key
+## ssh_key
     Public ssh key to access the ec2 instances through ssh
     
-##app_name
+## app_name
     Your application name, this name will be used to name all aws resources
     
-##app_instance
+## app_instance
     EC2 flavor to be assigned to you application machine
 
-##db_instance
+## db_instance
      EC2 flavor to be assigned to you database machine
