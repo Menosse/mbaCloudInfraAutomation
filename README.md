@@ -1,9 +1,20 @@
 # Cloud Infra Automation
 Terraform module to deploy provision ec2 instances
 
-access the module `main.tf`
+1 - Access this repo
+
+2 - Define the params on `main.tf`
+
+3 - Run the following commands
+
+`
+terraform init
+terraform plan
+terraform apply
+`
 
 ## Define your app params:
+Access the module `main.tf` and edit the params
 ### vpc_id
     Your VPC id created to host the EC2 instances
     
