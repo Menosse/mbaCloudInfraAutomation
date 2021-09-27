@@ -7,11 +7,10 @@ Terraform module to deploy provision ec2 instances
 
 3 - Run the following commands
 
-`
-terraform init
-terraform plan
-terraform apply
-`
+terraform init`
+`terraform plan`
+`terraform apply`
+
 
 ## Define your app params:
 Access the module `main.tf` and edit the params
