@@ -1,11 +1,15 @@
 # Cloud Infra Automation
 # Folder ex1
 Simple terraform to `main.tf` to provision ec2 instances with docker
+Run the following commands
+
+`terraform plan`
+`terraform apply`
 
 # Folder ex2
 Terraform module to provision ec2 instances with docker
 
-1 - Access this repo
+1 - Access folder ex2
 
 2 - Define the params on `main.tf`
 
@@ -14,6 +18,20 @@ Terraform module to provision ec2 instances with docker
 `terraform init`
 `terraform plan`
 `terraform apply`
+
+# Folder ex3
+Terraform module to provision ec2 instances and jenkins
+
+1 - Access folder ex3
+
+2 - Define the params on `main.tf`
+
+3 - Run the following commands
+
+`terraform init`
+`terraform plan`
+`terraform apply`
+
 
 
 ## Define your app params:

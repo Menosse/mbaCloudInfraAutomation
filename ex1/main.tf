@@ -36,7 +36,6 @@ resource "aws_instance" "slacko-app" {
     key_name = aws_key_pair.slacko-sshkey.id
     # bootstrap file
     user_data = file("ec2.sh")
-
 }
 
 resource "aws_instance" "mongodb" {
