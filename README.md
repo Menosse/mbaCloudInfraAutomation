@@ -9,7 +9,7 @@ Run the following commands
 # Folder ex2
 Terraform module to provision ec2 instances with docker
 
-1 - Access folder ex2
+1 - Access the folder `ex2`
 
 2 - Define the params on `main.tf`
 
@@ -22,7 +22,7 @@ Terraform module to provision ec2 instances with docker
 # Folder ex3
 Terraform module to provision ec2 instances and jenkins
 
-1 - Access folder ex3
+1 - Access the folder `ex3`
 
 2 - Define the params on `main.tf`
 
