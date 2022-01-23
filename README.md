@@ -1,7 +1,8 @@
 # Cloud Infra Automation
 # Folder ex1
 Simple terraform to `main.tf` to provision ec2 instances with docker
-Run the following commands
+
+1. Run the following commands
 
 `terraform plan`
 `terraform apply`
